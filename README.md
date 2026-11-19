@@ -2,7 +2,7 @@
 
 Computational designer and roboticist in New York. I build 3D vision, simulation and fabrication workflows that connect design models to real-world measurement.
 
-## Featured: YBuild, AEC Tech NYC Hackathon (Nov 2026)
+## YBuild (AEC Tech NYC Hackathon, Nov 2026)
 
 Team project: an agentic project-management system where an AI proposes where new information belongs in a project graph and a person approves it. Repo: [shermanry/agentic_project_management_aetech2026](https://github.com/shermanry/agentic_project_management_aetech2026)
 
